@@ -1,5 +1,3 @@
 Negation Brightness ( Brightness control si image negation )
 LPF ( Secure Noise Reduction )
 Secure Edge Detection and Sharpening 
-Dilation (Secure morphologic operations )
-Equalization (Secure Histogram Equalization )
